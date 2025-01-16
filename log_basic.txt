@@ -1,0 +1,5 @@
+commit 969c9d7043264a38778fb4f7c584168e032f8fda
+Author: Maksym LavKuz <maksym.lavkuz.dam@gmail.com>
+Date:   Tue Jan 14 20:13:24 2025 +0100
+
+    Afegir les carpetes activitatclasse, ra2, ra4 i tutorial

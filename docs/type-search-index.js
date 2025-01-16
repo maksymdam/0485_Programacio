@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ra4_3_herencia","l":"Formes"},{"p":"ra4_3_herencia","l":"MainFormes"},{"p":"ra4_3_herencia","l":"Quadrat"},{"p":"ra4_3_herencia","l":"Rodona"},{"p":"ra4_3_herencia","l":"Triangle"}];updateSearchResults();
